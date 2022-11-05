@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Arash the Hulk
-- 👀 I’m interested in Physical activity
-- 🌱 I’m currently learning how to codw :D
-- 💞️ I’m not looking to collaborate
-- 📫 How to reach me ...Even I don know personally!
+- 👀 Interested in Physical activity
+- 🌱 Currently learning how to code :D
 
 <!---
 ArasHulk/ArasHulk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
